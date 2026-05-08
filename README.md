@@ -1,2 +1,2 @@
-You need BepInEx to use this
+You need FatEx to use this
 https://github.com/BepInEx/BepInEx/releases
