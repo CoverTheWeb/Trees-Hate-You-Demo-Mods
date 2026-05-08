@@ -1,2 +1,2 @@
-You need TreeEx/BeIpnEx to use this
+You need BeIpnEx to use this
 https://github.com/BepInEx/BepInEx/releases
